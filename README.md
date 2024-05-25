@@ -39,8 +39,8 @@ This will open a new tab in your default web browser with the running React app.
 
 ## step 5: Expected output
 ![Image of Averagecrop](public/Averagecrop.png)
-![Imae of mincrop](public/mincrop.png)
-![Image](public/maxcrop.png)
+![Image of mincrop](public/mincrop.png)
+![Image of maxmincrop](public/maxcrop.png)
 ![Image of Maxmincrop](public/maxmincrop.png)
 
 
