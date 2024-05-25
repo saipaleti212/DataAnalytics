@@ -38,7 +38,11 @@ To start the development server and view your React application in the browser, 
 This will open a new tab in your default web browser with the running React app. If it doesn't open automatically, you can visit http://localhost:3000 in your browser.
 
 ## step 5: Expected output
-![Alt Text](https://raw.githubusercontent.com/saipaleti212/DataAnalytics/main/public/maxcrop.png)
+![Image Alt Text](public/Averagecrop.png)
+![Image Alt Text](public/maxcrop.png)
+![Image Alt Text](public/mincrop.png)
+![Image Alt Text](public/maxmincrop.png)
+
 
 
 
