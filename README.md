@@ -33,15 +33,8 @@ for using react-dom
 ## step 4:Start the Development Server
 To start the development server and view your React application in the browser, run the following command:
 
-```bash
+```basht
     yarn start
 This will open a new tab in your default web browser with the running React app. If it doesn't open automatically, you can visit http://localhost:3000 in your browser.
 
 ## step 5: Expected output
-
-![1-3 (1)](https://github.com/saipaleti212/DataAnalytics/assets/120434996/f3b84b89-bb5c-4a79-8cc3-7fd4b4820b04)
-
-![1-2 (1)](https://github.com/saipaleti212/DataAnalytics/assets/120434996/2d64cd04-bd90-4a21-b76d-568f3e8f095e)
-
-![1-1 (1)](https://github.com/saipaleti212/DataAnalytics/assets/120434996/9029b626-fac7-487e-b2f6-b78b23e9a6e1)
-
