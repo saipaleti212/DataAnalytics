@@ -38,8 +38,6 @@ To start the development server and view your React application in the browser, 
 This will open a new tab in your default web browser with the running React app. If it doesn't open automatically, you can visit http://localhost:3000 in your browser.
 
 ## step 5: Expected output
-![maxmin crop data](datatable\public\images\1..PNG)
-![Average crop data](datatable\public\images\2.PNG)
 
 
 
